@@ -1,4 +1,4 @@
-## Bb Blogs, Journals - week 7 {#bb-blogs-journals-week-7}
+## Bb Blogs, Journals {#bb-blogs-journals}
 
 *   create blog and journals
 *   explain difference between blog and journal

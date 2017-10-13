@@ -1,4 +1,4 @@
-## Bb Grade Center - week 3/4 {#bb-grade-center-week-3-4}
+## Bb Grade Center {#bb-grade-center}
 
 *   create a column
 *   edit and explain “Edit Column Information” settings

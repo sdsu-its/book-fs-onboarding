@@ -1,4 +1,4 @@
-## Bb Tests (Assessment) - week 5 {#bb-tests-assessment-week-5}
+## Bb Tests (Assessment) {#bb-tests-assessment}
 
 *   create a new test or survey from Course Tools area
 *   create a new test or deploy one from a course Content Area
