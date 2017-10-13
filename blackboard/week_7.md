@@ -1,4 +1,4 @@
-## Bb Blogs, Journals {#bb-blogs-journals}
+## Blogs, Journals {#bb-blogs-journals}
 
 *   create blog and journals
 *   explain difference between blog and journal

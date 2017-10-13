@@ -1,11 +1,11 @@
-## Bb Discussion Board {#bb-discussion-board}
+## Discussion Board {#bb-discussion-board}
 
 *   set up a discussion board
 *   set up and explain DB grading
 *   provide directions for students to “create a thread”
 
 
-## Bb Groups {#bb-groups}
+## Groups {#bb-groups}
 
 *   create groups (single and group sets)
 *   edit group tool availability

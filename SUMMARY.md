@@ -1,20 +1,20 @@
 # Summary
 
-* [Faculty Support On Boarding](README.md)
+* [Introduction](README.md)
 * [Parscore](parscore.md)
 * [Blackboard](blackboard/README.md)
   * [Week 1](blackboard/week_1.md)
-    * Courses and Course Availability
-    * Users
+    * [Courses and Course Availability](blackboard/week_1.md#bb-courses-and-availability)
+    * [Users](blackboard/week_1.md#bb-users)
   * [Week 2](blackboard/week_2.md)
-    * Navigation bar
-    * Content Areas
+    * [Navigation bar](blackboard/week_2.md#bb-navigation-bar)
+    * [Content Areas](blackboard/week_2.md#bb-content-areas)
   * [Weeks 3 & 4](blackboard/week_3.md)
-    * Grade Center
+    * [Grade Center](blackboard/week_3.md#bb-grade-center)
   * [Week 5](blackboard/week_5.md)
-    * Tests (Assessment)
+    * [Tests (Assessment)](blackboard/week_5.md#bb-tests-assessment)
   * [Week 6](blackboard/week_6.md)
-    * Discussion Board
-    * Groups
+    * [Discussion Board](blackboard/week_6.md#bb-discussion-board)
+    * [Groups](blackboard/week_6.md#bb-groups)
   * [Week 7](blackboard/week_7.md)
-    * Blogs, Journals
+    * [Blogs, Journals](blackboard/week_7.md#bb-blogs-journals)
