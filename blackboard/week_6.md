@@ -1,14 +1,14 @@
 ## Discussion Board {#bb-discussion-board}
 
-*   set up a discussion board
-*   set up and explain DB grading
-*   provide directions for students to “create a thread”
+*   Set up a discussion board
+*   Set up and explain DB grading
+*   Provide directions for students to “create a thread”
 
 
 ## Groups {#bb-groups}
 
-*   create groups (single and group sets)
-*   edit group tool availability
-*   create group assignment (Use Assignment tool)
-*   create group discussion board and explain Grade Center view
-*   create and use “Smart Views”
+*   Create groups (single and group sets)
+*   Edit group tool availability
+*   Create group assignment (Use Assignment tool)
+*   Create group discussion board and explain Grade Center view
+*   Create and use “Smart Views”
