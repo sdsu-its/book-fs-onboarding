@@ -38,7 +38,7 @@ body, .book .book-header, .book .book-summary, .book .book-body {
   /* Hide the option to change the font via the Font Settings */
   display: none;
 }
-.page-wrapper li {
+.markdown-section li {
     list-style-image: url('./checkbox.svg');
     list-style-position: inside;
 }

@@ -34,7 +34,7 @@ body, .book .book-header, .book .book-summary, .book .book-body {
   /* Darker Shade of ITS Red*/
   color:  #AA102A;
 }
-.page-wrapper li {
+.markdown-section li {
     list-style-image: url('./checkbox.svg');
     list-style-position: inside;
 }
