@@ -40,6 +40,6 @@ body, .book .book-header, .book .book-summary, .book .book-body {
 }
 
 .page-wrapper li {
-    list-style-image: url('./checkbox.png');
+    list-style-image: url('./checkbox.svg');
     list-style-position: inside;
 }
