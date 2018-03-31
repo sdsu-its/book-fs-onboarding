@@ -1,20 +1,12 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 * [Parscore](parscore.md)
 * [Blackboard](blackboard/README.md)
-  * [Week 1](blackboard/week_1.md)
-    * [Courses and Course Availability](blackboard/week_1.md#bb-courses-and-availability)
-    * [Users](blackboard/week_1.md#bb-users)
-  * [Week 2](blackboard/week_2.md)
-    * [Navigation bar](blackboard/week_2.md#bb-navigation-bar)
-    * [Content Areas](blackboard/week_2.md#bb-content-areas)
-  * [Weeks 3 & 4](blackboard/week_3.md)
-    * [Grade Center](blackboard/week_3.md#bb-grade-center)
-  * [Week 5](blackboard/week_5.md)
-    * [Tests (Assessment)](blackboard/week_5.md#bb-tests-assessment)
-  * [Week 6](blackboard/week_6.md)
-    * [Discussion Board](blackboard/week_6.md#bb-discussion-board)
-    * [Groups](blackboard/week_6.md#bb-groups)
-  * [Week 7](blackboard/week_7.md)
-    * [Blogs, Journals](blackboard/week_7.md#bb-blogs-journals)
+  * [Week 1](blackboard/week-1.md)
+  * [Week 2](blackboard/week-2.md)
+  * [Weeks 3 & 4](blackboard/weeks-3-and-4.md)
+  * [Week 5](blackboard/week-5.md)
+  * [Week 6](blackboard/week-6.md)
+  * [Week 7](blackboard/week-7.md)
+
